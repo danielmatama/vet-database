@@ -51,7 +51,6 @@
 
 - **[animal tables]**
 - **[animal data]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,12 +120,6 @@ Example command:
 - Twitter: [@twitterhandle](https://twitter.com/danmatama)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/danielmatamamwebesa)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -134,8 +127,6 @@ Example command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[owners'table]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,12 +140,20 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project, reach out to me at danmatama2020@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- Microverse code reviewers for there guidance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
 
